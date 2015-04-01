@@ -1,0 +1,8 @@
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\TCP_Server\bin\Debug\DataLayer.dll
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\TCP_Server\bin\Debug\DataLayer.pdb
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csprojResolveAssemblyReference.cache

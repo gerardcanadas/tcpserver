@@ -1,0 +1,11 @@
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\bin\Debug\Test.dll
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\bin\Debug\Test.pdb
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\bin\Debug\xunit.dll
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\bin\Debug\xunit.xml
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\obj\Debug\Test.dll
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\obj\Debug\Test.pdb
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\bin\Debug\DataLayer.dll
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\bin\Debug\TCP_Server.exe
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\bin\Debug\DataLayer.pdb
+C:\Users\Gerard\Documents\SourceCode\TCP_Server\Test\bin\Debug\TCP_Server.pdb
